@@ -1,4 +1,4 @@
-.mysite{
+.title{
     background-color: maroon;
     color: white;
     margin-left: 380px;
@@ -20,7 +20,7 @@
      display: block;
      text-align: center;
  }
- .border4cars{
+ .border{
     border: dashed;
  }
  footer{
