@@ -1,13 +1,13 @@
-*{
-    margin: 0;
-    padding: 0;
- }
- body{
-    background-color: #121116  ;
+body{
+    background-color: #121116;
+    background-image: url(images/grid.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
 }
-main{
-    margin-top: 300px;
-}
+main {
+        margin-top: 100px;
+        }
 .logo{
     display: flex;
     justify-content: center;
