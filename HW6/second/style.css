@@ -43,27 +43,27 @@
       }
       
 #phone {
-background: #2a69a6 url(/images/phone-white.png) no-repeat center;       
+background: #2a69a6 url(images/phone-white.png) no-repeat center;       
 }
       
 #phone:hover {
- background: #ffffff url(/images/phone-blue.png) no-repeat center center;
+ background: #ffffff url(images/phone-blue.png) no-repeat center center;
       }
       
 #settings {
-background: #2a69a6 url(/images/settings-white.png) no-repeat center center;
+background: #2a69a6 url(images/settings-white.png) no-repeat center center;
       }
       
 #settings:hover {
-background: #ffffff url(/images/settings-blue.png) no-repeat center center;
+background: #ffffff url(images/settings-blue.png) no-repeat center center;
       }
       
 #speedometer {
-background: #2a69a6 url(/images/speedometer-white.png) no-repeat center center;
+background: #2a69a6 url(images/speedometer-white.png) no-repeat center center;
       }
       
 #speedometer:hover {
-background: #ffffff url(/images/speedometer-blue.png) no-repeat center center;
+background: #ffffff url(images/speedometer-blue.png) no-repeat center center;
       }
       
       
