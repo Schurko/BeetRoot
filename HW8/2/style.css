@@ -1,0 +1,9 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+li{
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+}
